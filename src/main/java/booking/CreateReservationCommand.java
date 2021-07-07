@@ -10,5 +10,4 @@ import lombok.NoArgsConstructor;
 public class CreateReservationCommand {
 
     private int requestCapacity;
-
 }

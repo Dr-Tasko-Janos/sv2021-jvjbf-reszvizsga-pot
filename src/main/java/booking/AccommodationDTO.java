@@ -17,5 +17,4 @@ public class AccommodationDTO {
     private String city;
     private int availableCapacity;
     private int price;
-
 }

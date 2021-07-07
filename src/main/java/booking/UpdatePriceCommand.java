@@ -10,5 +10,4 @@ import lombok.NoArgsConstructor;
 public class UpdatePriceCommand {
 
     private int newPrice;
-
 }

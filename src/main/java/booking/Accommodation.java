@@ -29,5 +29,4 @@ public class Accommodation {
         this.price = price;
         this.availableCapacity = maxCapacity;
     }
-
 }
