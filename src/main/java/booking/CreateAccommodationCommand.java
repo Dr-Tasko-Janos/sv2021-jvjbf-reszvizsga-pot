@@ -19,4 +19,5 @@ public class CreateAccommodationCommand {
     @Min(10)
     private int maxCapacity;
     private int price;
+
 }

@@ -22,4 +22,5 @@ public class Sv2021JvjbfReszvizsgaPotApplication {
     public ObjectMapper objectMapper() {
         return new ObjectMapper().findAndRegisterModules();
     }
+
 }

@@ -78,5 +78,6 @@ public class BookingService {
             throw new IllegalStateException("There isn't enough capacity available at the moment");
         }
         return modelMapper.map(accommodationForReservation, AccommodationDTO.class);
+
     }
 }

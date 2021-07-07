@@ -90,4 +90,5 @@ public class BookingController {
                 .contentType(MediaType.APPLICATION_PROBLEM_JSON)
                 .body(problem);
     }
+
 }
